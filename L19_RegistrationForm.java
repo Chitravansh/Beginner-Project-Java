@@ -126,8 +126,11 @@ class Myframe extends JFrame implements ActionListener {
                     msg.setText("Accept the terms and conditions");
                     screen.setText("");
                 }
-                
-            }
+
+
+
+
+        }
     }
 
 
